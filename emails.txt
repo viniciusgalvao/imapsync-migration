@@ -1,0 +1,3 @@
+mailfrom@domain.com;password from;maildestiny@domain.com;passworddestiny
+mailfrom@domain.com;password from;maildestiny@domain.com;passworddestiny
+mailfrom@domain.com;password from;maildestiny@domain.com;passworddestiny
